@@ -7,4 +7,4 @@ layout: default
 Hi, I’m building a clean portfolio using the Architect theme on GitHub Pages!
 
 
-[View My Projects](projects.html)
+[View My Projects](projects.md)
