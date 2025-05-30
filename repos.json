@@ -1,0 +1,16 @@
+[
+  {
+    "name": "terraform-project",
+    "url": "https://github.com/sivavek/deploy-app-ec2-with-alb",
+    "description": "A simple IaC project using Terraform; creating a VPC, 2 EC2s in seperate subnets and serving using ALB",
+    "language": "HCL",
+    "stars": 42
+  },
+  {
+    "name": "VPC-peering",
+    "url": "hhttps://github.com/sivavek/aws-vpc-peering",
+    "description": "Creating intra and inter region VPC and enabling communication using VPC. Project built using Terraform",
+    "language": "HCL",
+    "stars": 15
+  }
+]
