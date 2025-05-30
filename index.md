@@ -4,7 +4,7 @@ layout: default
 
 # Welcome
 
-Hi, I’m building a clean portfolio using the Architect theme on GitHub Pages!
+Hi, This is my portfolio of primarlily AWS DevOps projects!
 
 
 <h2>Featured Projects</h2>
